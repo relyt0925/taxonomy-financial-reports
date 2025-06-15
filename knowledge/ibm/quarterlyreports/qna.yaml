@@ -4,7 +4,7 @@ domain: ibm-financial-reports
 seed_examples:
   - context: |
       ARMONK, N.Y., April 24, 2024 . . . IBM (NYSE: IBM) today announced first-quarter 2024 earnings results.
-      
+
       We began the year with solid revenue and free cash flow growth, reflecting the strength of our
       hybrid cloud and AI strategy. We continue to capitalize on the excitement and demand for enterprise AI
       from our clients. Our book of business for watsonx and generative AI again showed strong momentum,
@@ -15,7 +15,7 @@ seed_examples:
       landscape, we also announced our intent to acquire HashiCorp. IBM's and HashiCorp's combined
       portfolios will help clients manage growing application and infrastructure complexity and create a
       comprehensive hybrid cloud platform designed for the AI era.
-      
+
       First-Quarter Highlights
       • Revenue
         – Revenue of $14.5 billion, up 1 percent, up 3 percent at constant currency
@@ -37,9 +37,9 @@ seed_examples:
         answer: IBM is intending to acquire Hashicorp to help clients manage growing application and infrastructure complexity.
   - context: |
       ARMONK, N.Y., July 24, 2024 . . . IBM (NYSE: IBM) today announced second-quarter 2024 earnings results.
-      
+
       We had a strong second quarter, exceeding our expectations, driven by growth in both revenue and free cash flow. We continue to see that clients turn to IBM for our technology and our expertise in enterprise AI, and our book of business for generative AI has grown to more than two billion dollars since the launch of watsonx one year ago," said Arvind Krishna, IBM chairman and chief executive officer. "Given our first-half results, we are raising our full-year view of free cash flow, which we now expect to be more than $12 billion.
-      
+
       Second-Quarter Highlights
       • Revenue
       – Revenue of $15.8 billion, up 2 percent, up 4 percent at constant currency
@@ -61,7 +61,7 @@ seed_examples:
         answer: IBM Infrastructure revenue increased by 1 percent compared to Q1 2024.
   - context: |
       ARMONK, N.Y., January 29, 2025 . . . IBM (NYSE: IBM) today announced fourth-quarter 2024 earnings results.
-      
+
       “We closed the year with double-digit revenue growth in Software for the quarter, led by further acceleration in Red Hat. Clients globally continue to turn to IBM to transform with AI. Our generative AI book of business now stands at more than $5 billion inception-to-date, up nearly $2 billion quarter over quarter," said Arvind Krishna, IBM chairman, president and chief executive officer. "Three years ago, we laid out a vision for a faster-growing, more-profitable IBM. I'm proud of the work the IBM team has done to meet or exceed our commitments. With our focused strategy, enhanced portfolio, and culture of innovation, we're well-positioned for 2025 and beyond and expect revenue growth of at least five percent and free cash flow of about $13.5 billion this year."
     questions_and_answers:
       - question: What was IBM's revenue in Q3 2024?
@@ -72,9 +72,9 @@ seed_examples:
         answer: IBM Infrastructure revenue decreased by 7 percent in Q3 2024.
   - context: |
       ARMONK, N.Y., October 23, 2024 . . . IBM (NYSE: IBM) today announced third-quarter 2024 earnings results.
-      
+
       “Our third-quarter performance was led by double-digit growth in Software, including a re-acceleration in Red Hat. We continue to see great momentum in AI as our models are trusted, fit-for-purpose, and lower cost, with performance leadership. Our generative AI book of business now stands at more than $3 billion, up more than $1 billion quarter to quarter," said Arvind Krishna, IBM chairman, president and chief executive officer. "Heading into the final quarter of 2024, we expect fourth-quarter constant currency revenue growth to be consistent with the third quarter, with continued strength in Software. We are confident in our ability to deliver more than $12 billion in free cash flow for the year, driven by continued expansion of our operating margins."
-      
+
       Fourth-Quarter Highlights
       • Revenue
       – Revenue of $17.6 billion, up 1 percent, up 2 percent at constant currency
@@ -92,9 +92,9 @@ seed_examples:
         answer: IBM Infrastructure revenue decreased by 8 percent compared to Q3 2024.
   - context: |
       ARMONK, N.Y., April 23, 2025 . . . IBM (NYSE: IBM) today announced first-quarter 2025 earnings results.
-      
+
       “We exceeded expectations for revenue, profitability and free cash flow in the quarter, led by strength across our Software portfolio. There continues to be strong demand for generative AI and our book of business stands at more than $6 billion inception-to-date, up more than $1 billion in the quarter," said Arvind Krishna, IBM chairman, president and chief executive officer. "We remain bullish on the long-term growth opportunities for technology and the global economy. While the macroeconomic environment is fluid, based on what we know today, we are maintaining our full-year expectations for revenue growth and free cash flow."
-      
+
       First-Quarter Highlights
       • Revenue
       – Revenue of $14.5 billion, up 1 percent, up 2 percent at constant currency
