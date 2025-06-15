@@ -1,0 +1,122 @@
+version: 3
+created_by: relyt0925
+domain: ibm-financial-reports
+seed_examples:
+  - context: |
+      ARMONK, N.Y., April 24, 2024 . . . IBM (NYSE: IBM) today announced first-quarter 2024 earnings results.
+      
+      We began the year with solid revenue and free cash flow growth, reflecting the strength of our
+      hybrid cloud and AI strategy. We continue to capitalize on the excitement and demand for enterprise AI
+      from our clients. Our book of business for watsonx and generative AI again showed strong momentum,
+      growing quarter over quarter, and has now eclipsed one billion dollars since we launched watsonx in
+      mid-2023. As a result, for the full year, we continue to expect revenue performance in line with our
+      mid-single digit model and about $12 billion in free cash flow," said Arvind Krishna, IBM chairman and
+      chief executive officer. "To strengthen our position in today's hybrid cloud and AI-driven technology
+      landscape, we also announced our intent to acquire HashiCorp. IBM's and HashiCorp's combined
+      portfolios will help clients manage growing application and infrastructure complexity and create a
+      comprehensive hybrid cloud platform designed for the AI era.
+      
+      First-Quarter Highlights
+      • Revenue
+        – Revenue of $14.5 billion, up 1 percent, up 3 percent at constant currency
+        – Software revenue up 5 percent, up 6 percent at constant currency
+        – Consulting revenue flat, up 2 percent at constant currency
+        – Infrastructure revenue down 1 percent, flat at constant currency
+      • Profit Margin
+        – Gross Profit Margin: GAAP: 53.5 percent, up 80 basis points; Operating (Non-GAAP): 54.7 percent, up 100 basis points
+        – Pre-Tax Income Margin: GAAP: 7.4 percent, flat; Operating (Non-GAAP): 11.5 percent, up 130 basis points
+      • Cash Flow
+        – Net cash from operating activities of $4.2 billion, up $0.4 billion; free cash flow of $1.9 billion, up $0.6 billion
+        – Over the last twelve months, net cash from operating activities of $14.3 billion; free cash flow of $11.8 billion
+    questions_and_answers:
+      - question: What trends in the technology industry is IBM following to drive growth?
+        answer: IBM is focusing on differentiating in the hybrid cloud and AI spaces. This focus is griving
+      - question: How long did it take IBM to surpass 1 billion dollars in watsonx generative AI revenue?
+        answer: It took IBM 6 months to eclipse 1 billion dollars in generative AI revenue.
+      - question: What company is IBM acquiring to advance their hybrid cloud portfolio?
+        answer: IBM is intending to acquire Hashicorp to help clients manage growing application and infrastructure complexity.
+  - context: |
+      ARMONK, N.Y., July 24, 2024 . . . IBM (NYSE: IBM) today announced second-quarter 2024 earnings results.
+      
+      We had a strong second quarter, exceeding our expectations, driven by growth in both revenue and free cash flow. We continue to see that clients turn to IBM for our technology and our expertise in enterprise AI, and our book of business for generative AI has grown to more than two billion dollars since the launch of watsonx one year ago," said Arvind Krishna, IBM chairman and chief executive officer. "Given our first-half results, we are raising our full-year view of free cash flow, which we now expect to be more than $12 billion.
+      
+      Second-Quarter Highlights
+      • Revenue
+      – Revenue of $15.8 billion, up 2 percent, up 4 percent at constant currency
+      – Software revenue up 7 percent, up 8 percent at constant currency
+      – Consulting revenue down 1 percent, up 2 percent at constant currency
+      – Infrastructure revenue up 1 percent, up 3 percent at constant currency
+      • Profit Margin
+      – Gross Profit Margin: GAAP: 56.8 percent, up 180 basis points; Operating (Non-GAAP): 57.8 percent, up 190 basis points
+      – Pre-Tax Income Margin: GAAP: 14.1 percent, up 110 basis points; Operating (Non-GAAP): 17.7 percent, up 220 basis points
+      • Cash Flow
+      – Year to date, net cash from operating activities of $6.2 billion, down $0.2 billion; free cash flow of $4.5 billion, up $1.1 billion
+      – Over the last twelve months, net cash from operating activities of $13.8 billion; free cash flow of $12.3 billion
+    questions_and_answers:
+      - question: What was IBM's revenue in Q2 2024?
+        answer: IBM's revenue was 15.8 billion dollars.
+      - question: How much did IBM software revenue increase in Q2 2024?
+        answer: IBM Software revenue increased 7 percent compared to Q1 2024.
+      - question: How did IBM Infrastructure revenue change in Q2 2024?
+        answer: IBM Infrastructure revenue increased by 1 percent compared to Q1 2024.
+  - context: |
+      ARMONK, N.Y., January 29, 2025 . . . IBM (NYSE: IBM) today announced fourth-quarter 2024 earnings results.
+      
+      “We closed the year with double-digit revenue growth in Software for the quarter, led by further acceleration in Red Hat. Clients globally continue to turn to IBM to transform with AI. Our generative AI book of business now stands at more than $5 billion inception-to-date, up nearly $2 billion quarter over quarter," said Arvind Krishna, IBM chairman, president and chief executive officer. "Three years ago, we laid out a vision for a faster-growing, more-profitable IBM. I'm proud of the work the IBM team has done to meet or exceed our commitments. With our focused strategy, enhanced portfolio, and culture of innovation, we're well-positioned for 2025 and beyond and expect revenue growth of at least five percent and free cash flow of about $13.5 billion this year."
+    questions_and_answers:
+      - question: What was IBM's revenue in Q3 2024?
+        answer: IBM's revenue was $15.0 billion dollars.
+      - question: How much did IBM software revenue increase in Q3 2024?
+        answer: IBM Software revenue increased 10 percent in Q2 2024.
+      - question: How did IBM Infrastructure revenue change in Q2 2024?
+        answer: IBM Infrastructure revenue decreased by 7 percent in Q3 2024.
+  - context: |
+      ARMONK, N.Y., October 23, 2024 . . . IBM (NYSE: IBM) today announced third-quarter 2024 earnings results.
+      
+      “Our third-quarter performance was led by double-digit growth in Software, including a re-acceleration in Red Hat. We continue to see great momentum in AI as our models are trusted, fit-for-purpose, and lower cost, with performance leadership. Our generative AI book of business now stands at more than $3 billion, up more than $1 billion quarter to quarter," said Arvind Krishna, IBM chairman, president and chief executive officer. "Heading into the final quarter of 2024, we expect fourth-quarter constant currency revenue growth to be consistent with the third quarter, with continued strength in Software. We are confident in our ability to deliver more than $12 billion in free cash flow for the year, driven by continued expansion of our operating margins."
+      
+      Fourth-Quarter Highlights
+      • Revenue
+      – Revenue of $17.6 billion, up 1 percent, up 2 percent at constant currency
+      – Software revenue up 10 percent, up 11 percent at constant currency
+      – Consulting revenue down 2 percent, down 1 percent at constant currency
+      – Infrastructure revenue down 8 percent, down 6 percent at constant currency
+      • Profit
+      – Gross Profit Margin: GAAP: 59.5 percent, up 40 basis points; Operating (Non-GAAP): 60.6 percent, up 50 basis points
+    questions_and_answers:
+      - question: What was IBM's revenue in Q4 2024?
+        answer: IBM's revenue was $17.6 billion dollars.
+      - question: How much did IBM software revenue increase in Q4 2024?
+        answer: IBM Software revenue increased 10 percent compared to Q3 2024.
+      - question: How did IBM Infrastructure revenue change in Q4 2024?
+        answer: IBM Infrastructure revenue decreased by 8 percent compared to Q3 2024.
+  - context: |
+      ARMONK, N.Y., April 23, 2025 . . . IBM (NYSE: IBM) today announced first-quarter 2025 earnings results.
+      
+      “We exceeded expectations for revenue, profitability and free cash flow in the quarter, led by strength across our Software portfolio. There continues to be strong demand for generative AI and our book of business stands at more than $6 billion inception-to-date, up more than $1 billion in the quarter," said Arvind Krishna, IBM chairman, president and chief executive officer. "We remain bullish on the long-term growth opportunities for technology and the global economy. While the macroeconomic environment is fluid, based on what we know today, we are maintaining our full-year expectations for revenue growth and free cash flow."
+      
+      First-Quarter Highlights
+      • Revenue
+      – Revenue of $14.5 billion, up 1 percent, up 2 percent at constant currency
+      – Software revenue up 7 percent, up 9 percent at constant currency
+      – Consulting revenue down 2 percent, flat at constant currency
+      – Infrastructure revenue down 6 percent, down 4 percent at constant currency
+      • Profit
+      – Gross Profit Margin: GAAP: 55.2 percent, up 170 basis points; Operating (Non-GAAP): 56.6 percent, up 190 basis points
+      – Pre-Tax Income Margin: GAAP: 8.0 percent, up 50 basis points; Operating (Non-GAAP): 12.0 percent, up 50 basis points
+      • Cash Flow
+      – Net cash from operating activities of $4.4 billion; free cash flow of $2.0 billion
+    questions_and_answers:
+      - question: What was IBM's revenue in Q1 2025?
+        answer: IBM's revenue was $14.5 billion dollars up 1 percent from Q4 2024.
+      - question: How much did IBM software revenue increase in Q4 2024?
+        answer: IBM Software revenue increased 7 percent compared to Q4 2024.
+      - question: How did IBM Infrastructure revenue change in Q1 2025?
+        answer: IBM Infrastructure revenue decreased by 6 percent compared to Q4 2024.
+document_outline: |
+  Information about IBM's financial reports.
+document:
+  repo: https://github.com/relyt0925/financial-reports-knowledge-docs.git
+  commit: b78fc45ffc71ab1795dfefa156e40db54ad18f25
+  patterns:
+    - '*.pdf'
